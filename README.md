@@ -1,5 +1,5 @@
 # IPChangeNotifer
-IP アドレスが変更されたら Discord に通知するもの (Cloudflare レコード更新機能つき)
+動かしている環境の IP アドレスが変更されたら Discord に通知するもの (Cloudflare レコード更新機能つき)
 
 Discord は WebHooks URL を `URL.Discord` に設定してください。
 
